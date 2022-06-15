@@ -1,6 +1,6 @@
 def find_high_value(a,b):
     if a>b:
-        return(a)
+        return(a) 
     else:
         return(b)
 variable1 = int(input("Please enter first number : "))
